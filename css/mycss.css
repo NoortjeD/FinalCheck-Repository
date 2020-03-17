@@ -19,3 +19,15 @@
 .dates   {
 	color: #FB9CD9
 }
+.display-4 {
+    font-size: 35px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+}
+.rowcolor {
+    background-color: #E6E6E6;
+}
+.navbar-nav .nav-item.active .nav-link.nav-link2 {
+	color: #7A7A7A
+}
