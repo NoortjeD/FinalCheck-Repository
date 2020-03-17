@@ -1,1 +1,21 @@
 @charset "utf-8";
+.footer  {
+    text-align: center;
+    background-color: #041119;
+    height: 169px;
+    color: #FFFFFF;
+
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+	font-size: 30px;
+	color: #FB9CD9;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: #8C8C8C;
+}
+.dates   {
+	color: #FB9CD9
+}
